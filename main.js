@@ -2,7 +2,8 @@ const LinksSocialMedia = {
     twitter: 'Leonardo013sp',
     facebook: 'leonardo.tenorio.75',
     instagram: 'leonardotenorio',
-    youtube: 'channel/UCXgBoMUOnNHAwV0Y3wpE6sg'
+    youtube: 'channel/UCXgBoMUOnNHAwV0Y3wpE6sg',
+    github: 'leonardotenoriodev',
 }
   
 function changeSocialMediaLinks(){                  
